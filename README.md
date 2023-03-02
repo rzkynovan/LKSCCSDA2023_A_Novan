@@ -8,3 +8,6 @@ Url Register : add prefix /register
 Deskripsi Deployment
 
 Membuat 2 server Prod dan Dev, dimana dev melakukan pull code dari github, lalu server dev bisa melakukan synchronize local ke AWS S3, sedangkan untuk server prod melakukan synchronize ke S3 dari S3 ke local.
+
+URL PROD : http://13.212.131.202
+URL Dev : http://18.141.170.28
